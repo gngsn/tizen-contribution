@@ -4,6 +4,7 @@
 #fix typo error
 
 1. https://github.com/tomas4540/tizen-contribution/blob/master/TypoError
+2. https://github.com/tomas4540/tizen-contribution/blob/master/TypoError-2
 
 # setting up development environment
 
